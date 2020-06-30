@@ -1,5 +1,6 @@
 create database itau;
 use itau;
+
 create table enderecos(
 ID int auto_increment,
 NUMERO varchar(10) not null,
